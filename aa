@@ -1,0 +1,40 @@
+"profiles":[
+Raw
+Parse
+"prod
+"server.ports":{
+"local.server.port": 8095
+“ApolloBootstrapPropertySources:application:
+"endpoints.logfile. sensitive": "false""uplod.suffix.limit":"ipg, JP, jpg, JPEC, png PN, gif, CIF,apk, m4P,zip, pdf,syg, xls, ipa, doc, docx, bmp mov,avi,rar,MP, m WAV,FLAC p3, wma, way, flac""u3er. desensitizatinlomlist: "32823,355708,358192, 358194, 358196,358198, 358200, 35822 358204 35206,358208,358210,358212 358214.358216,43208.706823"user.token. validays": "90”
+"greentown.rabbitmq.exchange. customer": "ex customer d".
+"endpoints.logfile.enabled": "true".
+"qingting.grcode.url": "https://pengw.gtdreamlife. con/connector/xiaomengtong/ladder/orlode"
+"shop. operator. getTownHotlineUrl": "https://opengw. gtdreamlife,con/open/inner/getlowHotlineByTomnId?townld-"
+greentoun.rabbitm.exchange. deviceDelExchange": "ex device del t".
+alarnwebhook.access.token”"**"
+"aliyun. facebody. accessSecretKey":
+“本东净水京次”
+alarnwebhook.secret”. “*不*
+"greentown. rabbitmq.exchange. file.upload": "ex file upload d"
+"appUser.pointsappId”: “b66230ea0alf4a10b68fc3568-9059b0”
+"account.center.open. base.url": "https://lcopengw.gtdreamlife. com".
+openSmsCode".true"
+"shop.operator.house0wnerList,url": "https://opengw.gtdreamlife.com/inside/omner/list".
+"yCode. errorCount":"5",
+"kaptcha. textproducer. char. length": "4",
+"kaptcha.image.width": "110".
+d0n
+"kantcha.image. height.
+"greentoun. rabbitmg.routeKey. visitor": "yisitor_routekey".
+endpoints shutdown sensitive".false”
+"inner.networkAddrs": "218.75.106.114,101.68.82.202"
+"weixin.appid": wxa253b3bfbecb2625*
+"greentown. rabbitmo. exchange. parkingProfilelessage": "ex parkingprofile message f".
+"shop. operator.house0mnerProperty.url": "https://opengu. gtdreanlife. com/inside/owner/audit"
+"appUser. points. appSecret":"北次东业实水”
+"aliyun. face. recognition. accessSecret".“计长学长价头“
+security.basic. enabled":falso"
+"ex xlink door d","greentoun.rabbitmg.exchange. xlinkdoor".
+"greentoun. rabbitmg. routeKey. jieshun. account": "account key".
+greentoun. rabbitmo.exchange. devicedata".ex derice data t
+"kaptcha. obscurificator. impl"“com. greentown.gateway. callcenter. config
